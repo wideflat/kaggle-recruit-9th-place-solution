@@ -1,4 +1,4 @@
-# kaggle-recruit-9th-place-solution
+# Kaggle Recruit Restaurant Visitor Forecasting - 9th place solution
 
 ## Competition
 https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting
